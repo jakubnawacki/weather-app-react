@@ -3,7 +3,7 @@
 Title: Weather-app-react
 
 Project Decsription: 
-project was created to learn react.js. App is working loading data about weather.
+project was created to learn react.js. App is working by load data about weather.
 
 Technologies:
 Javascrip / HTML / CSS
